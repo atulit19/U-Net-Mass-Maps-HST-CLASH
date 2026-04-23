@@ -1,0 +1,54 @@
+The order in which CLASH clusters with spectroscopic predictions and their corresponding LTM maps are saved in "CLASH-Spectrosopic-Sample.h5"
+
+clash_clusters = [
+    {"cluster": "a209",     "z": 0.206, "M500c": 6.27E14,
+     "RA": "01 31 52.57", "Dec": "-13 36 38.8"},
+    {"cluster": "macs0416", "z": 0.396, "M500c": 4.33E14,
+     "RA": "04 16 09.39", "Dec": "-24 04 03.9"},
+    {"cluster": "macs1149", "z": 0.544, "M500c": 7.06E14,
+     "RA": "11 49 35.65", "Dec": "22 23 55.0"},
+    {"cluster": "macs1206", "z": 0.439, "M500c": 6.05E14,
+     "RA": "12 06 12.28", "Dec": "-08 48 02.4"},
+    {"cluster": "rxj2248",  "z": 0.348, "M500c": 7.66E14,
+     "RA": "22 48 44.29", "Dec": "-44 31 48.4"},
+]
+
+
+####################################################################################################################################
+The order in which CLASH clusters with photometric catalouge predictions and their corresponding LTM maps are saved in "CLASH-Photometeric-Sample.h5"
+
+
+clash_clusters = [
+    {"cluster": "a2261",    "z": 0.225, "M500c": 9.48E14,
+     "RA": "17 22 27.25", "Dec": "32 07 58.6"},
+    {"cluster": "a383",     "z": 0.188, "M500c": 6.12E14,
+     "RA": "02 48 03.36", "Dec": "-03 31 44.7"},
+    {"cluster": "a611",     "z": 0.288, "M500c": 5.70E14,
+     "RA": "08 00 56.83", "Dec": "36 03 24.1"},
+    {"cluster": "macs0329", "z": 0.450, "M500c": 5.05E14,
+     "RA": None,           "Dec": None},
+    {"cluster": "macs0429", "z": 0.399, "M500c": 5.32E14,
+     "RA": "04 29 36.10", "Dec": "-02 53 08.0"},
+    {"cluster": "macs0647", "z": 0.584, "M500c": 6.42E14,
+     "RA": "06 47 50.03", "Dec": "70 14 49.7"},
+    {"cluster": "macs0717", "z": 0.548, "M500c": 9.68E14,
+     "RA": "07 17 35.57",  "Dec": "37 44 44.80"},
+    {"cluster": "macs1115", "z": 0.352, "M500c": 5.43E14,
+     "RA": "11 15 52.05", "Dec": "01 29 56.6"},
+    {"cluster": "macs1311", "z": 0.494, "M500c": 3.2E14,
+     "RA": "13 11 01.67", "Dec": "-03 10 39.5"},
+    {"cluster": "macs1423", "z": 0.545, "M500c": 4.09E14,
+     "RA": "14 23 47.76", "Dec": "24 04 40.5"},
+    {"cluster": "macs1720", "z": 0.391, "M500c": 5.29E14,
+     "RA": "17 20 16.95", "Dec": "35 36 23.6"},
+    {"cluster": "macs1931", "z": 0.352, "M500c": 4.50E14,
+     "RA": None,           "Dec": None},
+    {"cluster": "ms2137",   "z": 0.313, "M500c": 6.79E14,
+     "RA": "21 40 15.18", "Dec": "-23 39 40.7"},
+    {"cluster": "rxj1347",  "z": 0.451, "M500c": 7.97E14,
+     "RA": "13 47 30.59", "Dec": "-11 45 10.1"},
+    {"cluster": "rxj1532",  "z": 0.345, "M500c": 3.44E14,
+     "RA": "15 32 53.78", "Dec": "30 20 58.7"},
+    {"cluster": "rxj2129",  "z": 0.234, "M500c": 4.30E14,
+     "RA": "21 29 39.94", "Dec": "00 05 18.8"},
+]
