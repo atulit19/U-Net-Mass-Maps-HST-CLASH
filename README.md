@@ -3,7 +3,7 @@
    Full Manuscript with Extended Appendix including Subhalo finder & all CLASH clusters
 </a><br>
 
-<a href="https://raw.githubusercontent.com/atulit19/U-Net-Mass-Maps-HST-CLASH/main/Subhalo-Identification-Algorithm-2D.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/atulit19/U-Net-Mass-Maps-HST-CLASH/main/Subhalos-Indentification-Algorithm-2D.pdf" target="_blank">
    Open Subhalo Identification Algorithm PDF only
 </a><br>
 
